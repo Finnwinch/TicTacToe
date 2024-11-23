@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="PlayerTitle">Vous (0) - À vous de jouer</string>
+    <string name="ComputerTitle">Ordinateur (X) - Analyse</string>
+    <string name="ComputerWiner">Ordinateur à gagner</string>
+    <string name="PlayerWiner">Vous avez gagner</string>
+    <string name="stuck">La partie est terminé ! Personne à gagner</string>
+</resources>
